@@ -4,9 +4,9 @@
 class TrLang < Formula
   desc "A programming language that aims to bring syntax closer to Turkish" 
   homepage "https://github.com/kaiserthe13th/tr-lang"
-  url "https://github.com/kaiserthe13th/tr-lang/archive/refs/tags/tr-lang-0.1.5.tar.gz"
-  sha256 "64904786d311ecd362fe8cd3ff33ecd56a9f0cda342b84db6e00b0e4bf31b48c"
-  version "0.1.5"
+  url "https://github.com/kaiserthe13th/tr-lang/archive/refs/tags/tr-lang-0.2.0.tar.gz"
+  sha256 "1f7b515ad035109da36e0ce1fbf7303f81002b154cc303c80e37463852b05a7d"
+  version "0.2.0"
   license "MIT"
   depends_on "rust" => :build
 
