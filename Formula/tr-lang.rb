@@ -6,7 +6,7 @@ class TrLang < Formula
   homepage "https://github.com/kaiserthe13th/tr-lang"
   url "https://github.com/kaiserthe13th/tr-lang/archive/refs/tags/tr-lang-0.2.2.tar.gz"
   sha256 "364e868ed1fef4653b90b351dd07a38e835fa71e29ab489e64a5dc211f646973"
-  version "0.2.0"
+  version "0.2.2"
   license "MIT"
   depends_on "rust" => :build
 
